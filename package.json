@@ -1,0 +1,12 @@
+{
+  "name": "decap-oauth",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@octokit/oauth-app": "^6.0.0",
+    "node-fetch": "^3.3.1"
+  }
+}
